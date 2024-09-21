@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solucode22
+- 👋 Hi, I’m @sulistudy
 - 👀 I’m interested in working on React projects
 - 🌱 I’m currently learning React
 
